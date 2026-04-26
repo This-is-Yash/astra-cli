@@ -1,5 +1,27 @@
+# [build-system]
+# requires = ["setuptools>=61"]
+# build-backend = "setuptools.build_meta"
+
+# [project]
+# name = "astra-cli"
+# version = "1.0.0"
+# description = "AI Desktop Terminal Assistant"
+# readme = "README.md"
+# requires-python = ">=3.9"
+
+# dependencies = [
+#     "rich",
+#     "requests",
+#     "pyautogui",
+#     "psutil",
+#     "pywhatkit"
+# ]
+
+# [project.scripts]
+# astra = "astra_cli.main:main"
+
 [build-system]
-requires = ["setuptools>=61"]
+requires = ["setuptools>=61", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -8,14 +30,21 @@ version = "1.0.0"
 description = "AI Desktop Terminal Assistant"
 readme = "README.md"
 requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+  {name = "Yash"}
+]
 
 dependencies = [
-    "rich",
-    "requests",
-    "pyautogui",
-    "psutil",
-    "pywhatkit"
+  "rich",
+  "requests",
+  "pyautogui",
+  "psutil",
+  "pywhatkit"
 ]
 
 [project.scripts]
 astra = "astra_cli.main:main"
+
+[project.urls]
+Homepage = "https://github.com/This-is-Yash/astra-cli"
