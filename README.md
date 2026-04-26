@@ -162,5 +162,3 @@ pip install astracli-ai
 astra
 ```
 
-```
-```
