@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "astra-cli"
+version = "1.0.0"
+description = "AI Desktop Terminal Assistant"
+readme = "README.md"
+requires-python = ">=3.9"
+
+dependencies = [
+    "rich",
+    "requests",
+    "pyautogui",
+    "psutil",
+    "pywhatkit"
+]
+
+[project.scripts]
+astra = "astra_cli.main:main"
