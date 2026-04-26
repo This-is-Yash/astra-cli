@@ -150,7 +150,21 @@ If you like this project:
 🧠 Share it
 
 ---
+---
+## Screenshot
+<img width="1919" height="841" alt="image" src="https://github.com/user-attachments/assets/990679a9-3f40-4be4-8be6-7157e59c727f" />
+<img width="1918" height="995" alt="image" src="https://github.com/user-attachments/assets/8b7be0b6-40d1-4d69-b766-21b7e3cce8d2" />
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/efcb1e89-f470-4169-910a-eccf5247f431" />
+<img width="1376" height="787" alt="image" src="https://github.com/user-attachments/assets/840081e0-7514-4e8b-a49d-3c47962dd7ad" />
+<img width="1039" height="603" alt="image" src="https://github.com/user-attachments/assets/7828a97c-d284-4e41-9b83-ca739d70d533" />
+<img width="1919" height="1001" alt="image" src="https://github.com/user-attachments/assets/0d4b818d-7e53-401f-be4e-306e95c68b2c" />
 
+
+
+
+
+
+---
 ## 💥 Install Now
 
 ```bash
