@@ -1,4 +1,4 @@
-````md
+
 # AstraCLI AI 🚀
 
 > AI-Powered Desktop Command Line Assistant for Windows  
