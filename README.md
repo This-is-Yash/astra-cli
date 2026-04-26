@@ -51,8 +51,6 @@ astra
 open chrome
 open vscode
 open notepad
-find file ML Book
-find report pdf
 search transformers tutorial
 youtube lofi music
 battery
@@ -68,14 +66,6 @@ exit
 ```
 
 ---
-
-## 📸 Screenshots
-
-Add screenshots here:
-
-```md
-![AstraCLI Demo](assets/demo.png)
-```
 
 ---
 
