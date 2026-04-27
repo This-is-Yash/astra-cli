@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+astra_cli/__init__.py
+astra_cli/main.py
+astracli_ai.egg-info/PKG-INFO
+astracli_ai.egg-info/SOURCES.txt
+astracli_ai.egg-info/dependency_links.txt
+astracli_ai.egg-info/entry_points.txt
+astracli_ai.egg-info/requires.txt
+astracli_ai.egg-info/top_level.txt

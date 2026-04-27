@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: astracli-ai
+Version: 1.0.1
+Summary: AI Desktop Terminal Assistant
+Author: Yash
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/This-is-Yash/astra-cli
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: rich
+Requires-Dist: requests
+Requires-Dist: pyautogui
+Requires-Dist: psutil
+Requires-Dist: pywhatkit
+Dynamic: license-file
+
+# Astra CLI
+
+Install:
+
+pip install astra-cli
+
+Run:
+
+astra
