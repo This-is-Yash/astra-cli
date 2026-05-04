@@ -161,4 +161,8 @@ If you like this project:
 pip install astracli-ai
 astra
 ```
+```bash
+npm i astracli-ai
+astra
+```
 
