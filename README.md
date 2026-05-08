@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-success)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-gpl-green)
 ![PyPI](https://img.shields.io/pypi/v/astracli-ai)
 ![Downloads](https://img.shields.io/pypi/dm/astracli-ai)
 
